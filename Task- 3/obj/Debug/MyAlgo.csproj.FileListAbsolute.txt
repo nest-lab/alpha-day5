@@ -1,0 +1,5 @@
+c:\Users\SimiDev\documents\visual studio 2017\Projects\SortAlgo\MyAlgo\bin\Debug\MyAlgo.exe.config
+c:\Users\SimiDev\documents\visual studio 2017\Projects\SortAlgo\MyAlgo\bin\Debug\MyAlgo.exe
+c:\Users\SimiDev\documents\visual studio 2017\Projects\SortAlgo\MyAlgo\bin\Debug\MyAlgo.pdb
+c:\Users\SimiDev\documents\visual studio 2017\Projects\SortAlgo\MyAlgo\obj\Debug\MyAlgo.exe
+c:\Users\SimiDev\documents\visual studio 2017\Projects\SortAlgo\MyAlgo\obj\Debug\MyAlgo.pdb
